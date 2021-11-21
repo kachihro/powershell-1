@@ -194,7 +194,7 @@ Specifies the type of site to which this design applies
 ```yaml
 Type: SiteWebTemplate
 Parameter Sets: (All)
-Accepted values: TeamSite, CommunicationSite
+Accepted values: TeamSite, CommunicationSite, GrouplessTeamSite, ChannelSite
 
 Required: False
 Position: Named
@@ -209,7 +209,7 @@ The URL of a thumbnail image. If none is specified, SharePoint uses a generic im
 ```yaml
 Type: SiteWebTemplate
 Parameter Sets: (All)
-Accepted values: TeamSite, CommunicationSite
+Accepted values: TeamSite, CommunicationSite, GrouplessTeamSite, ChannelSite
 
 Required: False
 Position: Named
