@@ -10,6 +10,7 @@ namespace PnP.PowerShell.Commands.Enums
     {
         TeamSite = 64,
         CommunicationSite = 68,
-        GrouplessTeamSite = 1
+        GrouplessTeamSite = 1,
+        ChannelSite = 69
     }
 }
